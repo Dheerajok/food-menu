@@ -18,7 +18,7 @@ const Navbar = () => {
       >
         <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5" />
       </svg>
-      <span className="ml-3 text-xl">MenuMagic</span>
+     <Link to={"/"} > <span className="ml-3 text-xl">FoodWithLove</span></Link>
     </a>
     <nav className="hidden md:ml-auto md:mr-32 md:flex flex-wrap items-center text-base justify-center ">
      
